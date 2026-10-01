@@ -9,6 +9,8 @@ A typed, zero-dependency client for the [England Hockey](https://www.englandhock
 
 > **Unofficial.** This package isn't affiliated with England Hockey. The API has no public schema; the endpoints and types come from England Hockey's own [Hockey GMS Feed](https://wordpress.org/plugins/eh-gms-feed/) WordPress plugin.
 
+**📖 Full documentation: [DOCUMENTATION.md](DOCUMENTATION.md)**
+
 ## Getting access
 
 You need permission from England Hockey to use GMS data, and an API key. Contact **gms.support@englandhockey.co.uk**.
